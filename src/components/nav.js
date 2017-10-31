@@ -258,7 +258,7 @@ const styles = StyleSheet.create({
   search_area: {
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#788bbb',
+    backgroundColor: '#007ee5',
     borderBottomWidth: 1,
     borderColor: 'black'
   },
@@ -278,7 +278,7 @@ const styles = StyleSheet.create({
     alignItems:'center',
     justifyContent:'center',
     marginTop:20,
-    backgroundColor:'#788bbb',
+    backgroundColor:'#00BFFF',
     height:60,
     width:width,
     borderBottomWidth:1

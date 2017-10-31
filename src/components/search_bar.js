@@ -49,7 +49,7 @@ export default class extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={{fontFamily:'Helvetica'}}>Enter keyword:</Text>
+        <Text style={{fontFamily:'Helvetica'}}>Enter a keyword:</Text>
         <View style={styles.changeOrientation}>
           <TextInput
             style={styles.input}
