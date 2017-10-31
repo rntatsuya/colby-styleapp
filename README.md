@@ -5,3 +5,5 @@ Mainly for staff, but also for students who plan to write official documents for
 
 The app will be available on both the Google and Apple app stores soon. 
 
+
+![Demo](/demo/demo.png)
